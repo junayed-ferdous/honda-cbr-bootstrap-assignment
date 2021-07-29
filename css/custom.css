@@ -1,0 +1,244 @@
+/* ======================
+=========IMPORT==========
+=========================*/
+/* Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;500;600&display=swap');
+
+
+
+/* ======================
+======Custom Styles=======
+=========================*/
+
+/* Global Style */
+
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+h1 {
+    font-size: 48px;
+    font-weight: 600px;
+    line-height: 72px;
+}
+
+h2 {
+    font-size: 48px;
+    font-weight: 600;
+    color: #000;
+}
+
+.btn-red {
+    background: #E76F51;
+    border: 1px solid #E76F51;
+    border-radius: 5px;
+    padding: 10px 24px;
+    color: #ffffff;
+    font-weight: 500;
+}
+
+.btn-red:hover {
+    color: #E76F51;
+    background-color: #ffffff;
+    border: 1px solid #E76F51;
+}
+
+/* Header Section Styles */
+
+#hero-banner {
+    min-height: 100vh;
+    background-color: #264653;
+}
+
+.navbar-bg {
+    background-color: #2646536e;
+}
+
+.section-info {
+    padding-top: 100px;
+}
+
+#hero-banner p {
+    font-weight: 300;
+    font-size: 16px;
+    color: #E0E0E0;
+    line-height: 24px;
+}
+
+/* Featured Section Styles */
+
+#featured {
+    padding: 80px 0;
+}
+
+.featured-heading {
+    margin-bottom: 80px;
+}
+
+.featured-heading p {
+    color: #E76F51;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 21px;
+}
+
+.grayscale {
+    filter: grayscale(100%);
+}
+
+/* News Section Styles */
+
+#news {
+    padding-bottom: 80px;
+}
+
+h5 {
+    color: #18191F;
+    font-weight: 600;
+    font-size: 28px;
+    line-height: 40px;
+}
+
+.c-radius {
+    border-radius: 15px;
+}
+
+.img-flex {
+    height: 150px;
+    width: 150px;
+    border-radius: 100px;
+}
+
+#news p {
+    font-size: 16px;
+    line-height: 32px;
+    color: #6C6C6C;
+}
+
+/* Clients Section Styles */
+
+#clients {
+    padding: 80px 0;
+}
+
+.red {
+    color: #E76F51;
+}
+
+#clients .card:hover {
+    box-shadow: 10px 10px 40px gray;
+    transition: 0.2s;
+}
+
+.bi-color {
+    color: #E77C40;
+}
+
+.user-name {
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 24px;
+    letter-spacing: 0.2px;
+    color: #23A6F0;
+}
+
+.occupation {
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 24px;
+    letter-spacing: 0.2px;
+    color: #252B42;
+}
+
+
+/* FAQ Section Styles */
+
+#faq {
+    padding: 80px 0;
+}
+
+/* Brands Section Styles */
+
+#brands {
+    padding: 80px 0;
+    background-color: #2646532d
+}
+
+/* Newsletter section Styles */
+
+#newsletter {
+    padding: 60px 0;
+    background-image: url(/images/Untitled\ design.png);
+    background-position: bottom;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+#newsletter p {
+    color: #6C6C6C;
+    font-size: 24px;
+    margin-top: 20px;
+}
+
+.input-cs {
+    width: 100%;
+}
+
+/* Footer Section Styles */
+
+footer {
+    background-color: #0B0D17;
+    padding: 80px 0;
+}
+
+footer nav .nav-item-link {
+    color: white;
+    font-size: 16px;
+    line-height: 26px;
+}
+
+.copyright {
+    font-size: 14px;
+    line-height: 24px;
+    color: #D9DBE1;
+}
+
+.footer-img {
+    margin-top: 10px;
+    border: 2px solid gray;
+    border-radius: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
